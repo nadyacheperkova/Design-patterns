@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Week5_AdapterPattern/1.0.0": {
+        "runtime": {
+          "Week5_AdapterPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week5_AdapterPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

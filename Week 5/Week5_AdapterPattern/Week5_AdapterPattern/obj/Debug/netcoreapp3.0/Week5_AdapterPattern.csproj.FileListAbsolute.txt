@@ -1,0 +1,11 @@
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.exe
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.deps.json
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.runtimeconfig.json
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.runtimeconfig.dev.json
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.dll
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\bin\Debug\netcoreapp3.0\Week5_AdapterPattern.pdb
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\obj\Debug\netcoreapp3.0\Week5_AdapterPattern.csprojAssemblyReference.cache
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\obj\Debug\netcoreapp3.0\Week5_AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\obj\Debug\netcoreapp3.0\Week5_AdapterPattern.AssemblyInfo.cs
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\obj\Debug\netcoreapp3.0\Week5_AdapterPattern.dll
+C:\Users\nidhi\Documents\Semester 4\DPR-CLASS\DPR\Week 5\Week5_AdapterPattern\Week5_AdapterPattern\obj\Debug\netcoreapp3.0\Week5_AdapterPattern.pdb

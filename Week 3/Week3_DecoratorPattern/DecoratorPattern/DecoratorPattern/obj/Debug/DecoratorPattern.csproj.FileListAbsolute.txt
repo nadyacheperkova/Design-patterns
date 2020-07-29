@@ -1,0 +1,10 @@
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Form1.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

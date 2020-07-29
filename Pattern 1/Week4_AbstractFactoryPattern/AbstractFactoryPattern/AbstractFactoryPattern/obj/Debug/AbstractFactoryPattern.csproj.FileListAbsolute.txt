@@ -1,0 +1,10 @@
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.Form1.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.Properties.Resources.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.GenerateResource.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

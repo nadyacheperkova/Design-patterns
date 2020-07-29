@@ -1,0 +1,8 @@
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\obj\Debug\CommandPattern.Form1.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\obj\Debug\CommandPattern.Properties.Resources.resources
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.GenerateResource.cache
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\401148\Desktop\Fontys\DPR\assignments\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
